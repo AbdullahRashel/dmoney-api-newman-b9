@@ -15,3 +15,5 @@ This is a demo fintech API, which can create user, search user, deposit, check b
   ``` npm start ```
   
 ![Newman-report](https://github.com/AbdullahRashel/dmoney-api-newman-b9/assets/153196738/d77f5ee7-054d-4b8d-ac76-82a09d593956)
+
+![Newman-report2](https://github.com/AbdullahRashel/dmoney-api-newman-b9/assets/153196738/7aebb8aa-dc89-4a45-a5a1-14645dd244b0)
